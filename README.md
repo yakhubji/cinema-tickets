@@ -4,7 +4,10 @@
 
 A Java implementation of `TicketService` for a cinema booking system.
 
----
+## Prerequisites
+
+- **Java 17+** — [Download](https://www.microsoft.com/openjdk) or via `winget install Microsoft.OpenJDK.17`
+- **Maven 3.8+** — [Download](https://maven.apache.org/download.cgi)
 
 ## Ticket Prices
 
